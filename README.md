@@ -1,24 +1,13 @@
-# music
-
-## Project setup
 ```
-yarn install
+所用技术
+    vue2.0 + axios + less + better-scroll + vuex + vue-router + vant + dayjs
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
 ```
-yarn lint
+目前实现功能
+    1. 用户登录
+    2. 歌曲搜索
+    3. 歌曲播放
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
